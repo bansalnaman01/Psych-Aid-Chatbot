@@ -72,25 +72,11 @@ git clone https://github.com/your-username/psych-aid-chatbot.git
 cd psych-aid-chatbot
 ```
 
-### 2️⃣ Create a virtual environment
+### 2️⃣ Docker compose
 
 ``` bash
-python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+docker compose up
 ```
-
-### 3️⃣ Install dependencies
-
-``` bash
-pip install -r requirements.txt
-```
-
-### 4️⃣ Run the FastAPI server
-
-``` bash
-uvicorn main:app --reload
-```
-
 ### 5️⃣ Open the application
 
     http://127.0.0.1:8000
