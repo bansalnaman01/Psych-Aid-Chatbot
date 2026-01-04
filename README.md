@@ -68,7 +68,7 @@ assistance in a safe and ethical manner.
 ### 1️⃣ Clone the repository
 
 ``` bash
-git clone https://github.com/your-username/psych-aid-chatbot.git
+git clone https://github.com/bansalnaman01/Psych-Aid-Chatbot.git
 cd psych-aid-chatbot
 ```
 
